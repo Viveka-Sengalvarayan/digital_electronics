@@ -103,6 +103,9 @@ endmodule
 
 **RTL**
 
+<img width="1920" height="1140" alt="Screenshot 2025-11-21 094022" src="https://github.com/user-attachments/assets/8ef85bbd-7b7d-4234-8f5a-236a61d8d045" />
+
+
 **Result:**
 
-
+Thus the given program To study and verify the truth table of logic gates in Quartus II using Verilog programming was executed successfully
