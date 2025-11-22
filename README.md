@@ -90,7 +90,7 @@ module logic_gates (
 endmodule
 
 
- Developed by: viveka
+ Developed by: viveka 
  
   RegisterNumber: 25016820
  
